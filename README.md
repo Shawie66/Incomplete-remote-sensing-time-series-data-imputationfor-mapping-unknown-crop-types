@@ -3,7 +3,7 @@ This is the official implementation of *"Auxiliary data-driven imputation of inc
 
 ## Current Status
 
-- **Pre-trained Weights and Model Files**: We have made the pre-trained weights available for immediate use. You can download them [here](https://drive.google.com/file/d/1rxWEfE3KSCf_yvX1azkRGv-i2B0pUGHY/view?usp=sharing) and start experimenting with the framework right away.
+- **Pre-trained Weights and Model Files**: We have made the pre-trained weights available for immediate use. You can download them here (We will make the weights public after the paper is accepted) and start experimenting with the framework right away.
 - **Codebase**: The current implementation includes the essential components to run the model. We are actively working on organizing and documenting the remaining parts of the codebase, which will be released as soon as possible. Stay tuned for updates!
 - **Datasets**: The zero-shot study areas used in this paper can be downloaded from [here](https://code.earthengine.google.com/c71e63854d28ffed4eab91bd69d57e32) 
 
