@@ -9,7 +9,7 @@ This is the official implementation of *"Auxiliary data-driven imputation of inc
 
 ## Installation Instructions
 
-To set up the environment for running the framework, follow the steps shown in the image below:
+To set up the environment for running the framework, follow the steps below (CUDA version: 11.4):
 1. Create a new Conda environment named `itsc` with Python version 3.8: conda create -n falcon python=3.10
 2. Activate the newly created environment: conda activate itsc
 3. Install the required dependencies listed in the `requirements.txt` file using pip: pip install -r requirements.txt
